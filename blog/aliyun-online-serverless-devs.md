@@ -9,7 +9,10 @@ tags: [命令行, Serverless, Cloudshell]
 date: 2021-05-21
 ---
 
+
 # 阿里云Cloudshell助力Serverless Devs快速体验
+
+修改后的
 
 如果想要体验命令行工具需要那几步骤？下载客户端->配置密钥信息->下载模板项目->配置相关的资源->部署项目。
 
